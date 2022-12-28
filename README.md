@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Test Automation**
 
-- 👨‍💻 All of my projects are available at [raghavgarg1996](raghavgarg1996)
+- 👨‍💻 All of my projects are available at https://github.com/raghavgarg1996
 
 - 💬 Ask me about **Software Testing**
 
