@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/raghav garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghav garg" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/raghav garg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raghav garg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/raghav garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raghav garg" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/raghav garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raghav garg" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/raghavgarg291900/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raghav garg" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/raghav garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="raghav garg" height="30" width="40" /></a>
 </p>
 
